@@ -1,6 +1,6 @@
 ## These 2 functions paired together make it possible to establish a matrix
 ## and compute its inverse. The inverse will be cached so that the same 
-## computation does not have to be done twice.
+## computation does not have to be done twice
 
 ## returns a list of functions that can be called on a matrix you enter (x)
 
